@@ -1,16 +1,21 @@
-# _Min Hein Htet_
+# Min Hein Htet
+**Student, Payap University**
 
-> A Student at Payap University<br />
+---
 
-# Education
-* BA English - East Yangon University
-* BSc Infomation Technology - Payap University
+## Education
+* **BA English** - East Yangon University
+* **BSc Computer Science** - Payap University
 
-# Experience
-*-------------------------
+## Skills
+* Java, Python
+* HTML, CSS
 
-# Interests
-* Web Development
+## Interests
+* Web Development and Design
+* History studies
 
-# Contact
-* https://minhein97-script.github.io
+---
+
+## Contact
+[View HTML Version](index.html)
