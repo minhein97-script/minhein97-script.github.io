@@ -5,7 +5,7 @@
 
 ## Education
 * **BA English** - East Yangon University
-* **BSc Computer Science** - Payap University
+* **BSc Information Technology** - Payap University
 
 ## Skills
 * Java, Python
